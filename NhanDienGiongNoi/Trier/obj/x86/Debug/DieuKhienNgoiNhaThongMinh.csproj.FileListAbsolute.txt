@@ -1,0 +1,25 @@
+C:\Users\QuyTuTlu\Desktop\Speech Recognition in C# - csharpens.com\Trier\obj\x86\Debug\Trier.Form1.resources
+C:\Users\QuyTuTlu\Desktop\Speech Recognition in C# - csharpens.com\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.csproj.GenerateResource.Cache
+C:\Users\QuyTuTlu\Desktop\Speech Recognition in C# - csharpens.com\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.Properties.Resources.resources
+C:\Users\QuyTuTlu\Desktop\Speech Recognition in C# - csharpens.com\Trier\bin\Debug\DieuKhienNgoiNhaThongMinh.exe
+C:\Users\QuyTuTlu\Desktop\Speech Recognition in C# - csharpens.com\Trier\bin\Debug\DieuKhienNgoiNhaThongMinh.pdb
+C:\Users\QuyTuTlu\Desktop\Speech Recognition in C# - csharpens.com\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.exe
+C:\Users\QuyTuTlu\Desktop\Speech Recognition in C# - csharpens.com\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.pdb
+D:\Khoa Luan Tot Nghiep\CodeNhanDienGiongNoi\NhanDienGiongNoi\Trier\bin\Debug\DieuKhienNgoiNhaThongMinh.exe
+D:\Khoa Luan Tot Nghiep\CodeNhanDienGiongNoi\NhanDienGiongNoi\Trier\bin\Debug\DieuKhienNgoiNhaThongMinh.pdb
+D:\Khoa Luan Tot Nghiep\CodeNhanDienGiongNoi\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.csprojResolveAssemblyReference.cache
+D:\Khoa Luan Tot Nghiep\CodeNhanDienGiongNoi\NhanDienGiongNoi\Trier\obj\x86\Debug\Trier.Form1.resources
+D:\Khoa Luan Tot Nghiep\CodeNhanDienGiongNoi\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.Properties.Resources.resources
+D:\Khoa Luan Tot Nghiep\CodeNhanDienGiongNoi\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.csproj.GenerateResource.Cache
+D:\Khoa Luan Tot Nghiep\CodeNhanDienGiongNoi\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.exe
+D:\Khoa Luan Tot Nghiep\CodeNhanDienGiongNoi\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.pdb
+D:\Khoa Luan Tot Nghiep\CodeNhanDienGiongNoi\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.Load.resources
+C:\Users\QuyTuTlu\Desktop\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.exe
+C:\Users\QuyTuTlu\Desktop\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.pdb
+C:\Users\QuyTuTlu\Desktop\NhanDienGiongNoi\Trier\bin\Debug\DieuKhienNgoiNhaThongMinh.exe
+C:\Users\QuyTuTlu\Desktop\NhanDienGiongNoi\Trier\bin\Debug\DieuKhienNgoiNhaThongMinh.pdb
+C:\Users\QuyTuTlu\Desktop\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.csprojResolveAssemblyReference.cache
+C:\Users\QuyTuTlu\Desktop\NhanDienGiongNoi\Trier\obj\x86\Debug\Trier.Form1.resources
+C:\Users\QuyTuTlu\Desktop\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.Load.resources
+C:\Users\QuyTuTlu\Desktop\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.Properties.Resources.resources
+C:\Users\QuyTuTlu\Desktop\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.csproj.GenerateResource.Cache

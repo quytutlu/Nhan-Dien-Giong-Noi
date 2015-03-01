@@ -1,0 +1,10 @@
+Plz Note that this application is not ready. I code this for my own learning.
+
+If you have some issues with it plz contact me on -> www.csharpens.com/sajjadgull
+
+Or you can also check my own other applications -> http://www.csharpens.com/p/sajjad-gull-applications.html
+
+for explanation of this app : http://www.csharpens.com/2014/03/speech-voice-recognition-in-c-sharp-with-source-code-application.html
+
+Facebook.com/Csharpens.com
+Facebook.com/founderofWSC

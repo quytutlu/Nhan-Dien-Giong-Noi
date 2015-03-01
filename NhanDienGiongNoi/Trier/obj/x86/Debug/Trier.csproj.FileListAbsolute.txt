@@ -1,0 +1,38 @@
+c:\users\gull\documents\visual studio 2010\Projects\Trier\Trier\bin\Debug\Trier.exe
+c:\users\gull\documents\visual studio 2010\Projects\Trier\Trier\bin\Debug\Trier.pdb
+c:\users\gull\documents\visual studio 2010\Projects\Trier\Trier\obj\x86\Debug\Trier.Form1.resources
+c:\users\gull\documents\visual studio 2010\Projects\Trier\Trier\obj\x86\Debug\Trier.Properties.Resources.resources
+c:\users\gull\documents\visual studio 2010\Projects\Trier\Trier\obj\x86\Debug\Trier.csproj.GenerateResource.Cache
+c:\users\gull\documents\visual studio 2010\Projects\Trier\Trier\obj\x86\Debug\Trier.exe
+c:\users\gull\documents\visual studio 2010\Projects\Trier\Trier\obj\x86\Debug\Trier.pdb
+C:\Users\Gull\documents\visual studio 2010\Projects\Trier\Trier\obj\x86\Debug\Trier.csprojResolveAssemblyReference.cache
+E:\Trier\Trier\obj\x86\Debug\Trier.exe
+E:\Trier\Trier\obj\x86\Debug\Trier.pdb
+E:\University\Trier\Trier\obj\x86\Debug\Trier.exe
+E:\University\Trier\Trier\obj\x86\Debug\Trier.pdb
+E:\University\Trier\Trier\bin\Debug\Trier.exe
+E:\University\Trier\Trier\bin\Debug\Trier.pdb
+E:\University\Trier\Trier\obj\x86\Debug\Trier.csprojResolveAssemblyReference.cache
+E:\University\Trier\Trier\obj\x86\Debug\Trier.Form1.resources
+E:\University\Trier\Trier\obj\x86\Debug\Trier.Properties.Resources.resources
+E:\University\Trier\Trier\obj\x86\Debug\Trier.csproj.GenerateResource.Cache
+E:\University\Trier\Trier\obj\x86\Debug\Trier.Settings.resources
+D:\University\My Roughs\Trier\Trier\obj\x86\Debug\Trier.exe
+D:\University\My Roughs\Trier\Trier\obj\x86\Debug\Trier.pdb
+C:\Users\Gull\Desktop\Trier\Trier\obj\x86\Debug\Trier.exe
+C:\Users\Gull\Desktop\Trier\Trier\obj\x86\Debug\Trier.pdb
+C:\Users\Gull\Desktop\Trier\Trier\bin\Debug\Trier.exe
+C:\Users\Gull\Desktop\Trier\Trier\bin\Debug\Trier.pdb
+C:\Users\Gull\Desktop\Trier\Trier\obj\x86\Debug\Trier.csprojResolveAssemblyReference.cache
+C:\Users\Gull\Desktop\Trier\Trier\obj\x86\Debug\Trier.Form1.resources
+C:\Users\Gull\Desktop\Trier\Trier\obj\x86\Debug\Trier.Properties.Resources.resources
+C:\Users\Gull\Desktop\Trier\Trier\obj\x86\Debug\Trier.Settings.resources
+C:\Users\Gull\Desktop\Trier\Trier\obj\x86\Debug\Trier.csproj.GenerateResource.Cache
+C:\Users\QuyTuTlu\Desktop\Speech Recognition in C# - csharpens.com\Trier\obj\x86\Debug\Trier.exe
+C:\Users\QuyTuTlu\Desktop\Speech Recognition in C# - csharpens.com\Trier\obj\x86\Debug\Trier.pdb
+C:\Users\QuyTuTlu\Desktop\Speech Recognition in C# - csharpens.com\Trier\bin\Debug\Trier.exe
+C:\Users\QuyTuTlu\Desktop\Speech Recognition in C# - csharpens.com\Trier\bin\Debug\Trier.pdb
+C:\Users\QuyTuTlu\Desktop\Speech Recognition in C# - csharpens.com\Trier\obj\x86\Debug\Trier.csprojResolveAssemblyReference.cache
+C:\Users\QuyTuTlu\Desktop\Speech Recognition in C# - csharpens.com\Trier\obj\x86\Debug\Trier.Form1.resources
+C:\Users\QuyTuTlu\Desktop\Speech Recognition in C# - csharpens.com\Trier\obj\x86\Debug\Trier.Properties.Resources.resources
+C:\Users\QuyTuTlu\Desktop\Speech Recognition in C# - csharpens.com\Trier\obj\x86\Debug\Trier.csproj.GenerateResource.Cache
