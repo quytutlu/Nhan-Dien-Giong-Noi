@@ -23,3 +23,12 @@ C:\Users\QuyTuTlu\Desktop\NhanDienGiongNoi\Trier\obj\x86\Debug\Trier.Form1.resou
 C:\Users\QuyTuTlu\Desktop\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.Load.resources
 C:\Users\QuyTuTlu\Desktop\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.Properties.Resources.resources
 C:\Users\QuyTuTlu\Desktop\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.csproj.GenerateResource.Cache
+C:\Users\QuyTuTlu\Desktop\Nhan-Dien-Giong-Noi\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.exe
+C:\Users\QuyTuTlu\Desktop\Nhan-Dien-Giong-Noi\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.pdb
+C:\Users\QuyTuTlu\Desktop\Nhan-Dien-Giong-Noi\NhanDienGiongNoi\Trier\bin\Debug\DieuKhienNgoiNhaThongMinh.exe
+C:\Users\QuyTuTlu\Desktop\Nhan-Dien-Giong-Noi\NhanDienGiongNoi\Trier\bin\Debug\DieuKhienNgoiNhaThongMinh.pdb
+C:\Users\QuyTuTlu\Desktop\Nhan-Dien-Giong-Noi\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.csprojResolveAssemblyReference.cache
+C:\Users\QuyTuTlu\Desktop\Nhan-Dien-Giong-Noi\NhanDienGiongNoi\Trier\obj\x86\Debug\Trier.Form1.resources
+C:\Users\QuyTuTlu\Desktop\Nhan-Dien-Giong-Noi\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.Load.resources
+C:\Users\QuyTuTlu\Desktop\Nhan-Dien-Giong-Noi\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.Properties.Resources.resources
+C:\Users\QuyTuTlu\Desktop\Nhan-Dien-Giong-Noi\NhanDienGiongNoi\Trier\obj\x86\Debug\DieuKhienNgoiNhaThongMinh.csproj.GenerateResource.Cache

@@ -32,7 +32,7 @@ namespace Trier
 
         private void LoadGrammars()
         {
-            Choices choices = new Choices(new string[] { "on", "off", "Goout" });
+            Choices choices = new Choices(new string[] { "on", "off", "Goout","all" });
             GrammarBuilder grammarBuilder = new GrammarBuilder(choices);
             Grammar grammar = new Grammar(grammarBuilder);
             recognizer.LoadGrammar(grammar);
